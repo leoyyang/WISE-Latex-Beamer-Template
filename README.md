@@ -25,4 +25,8 @@ Example slides:
 
 ![A math slide](screenshots/slide3.png?raw=true)
 
+Road Map:
+---------------
+* Change the Logo of WISE into the new version.
+* Change the default color setting into blue series, which is the main color of the new logo.
 
