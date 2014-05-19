@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.20pt}
+\beamer@sectionintoc {1}{背景}{2}{0}{1}
+\beamer@sectionintoc {2}{方法}{15}{0}{2}
+\beamer@subsectionintoc {2}{1}{Method one}{16}{0}{2}
+\beamer@subsectionintoc {2}{2}{Method two}{20}{0}{2}
+\beamer@subsectionintoc {2}{3}{Example}{22}{0}{2}
+\beamer@sectionintoc {3}{展望}{26}{0}{3}
